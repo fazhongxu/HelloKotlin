@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloKotlin</string>
+
+    <string name="login_username">username</string>
+    <string name="login_password">password</string>
+    <string name="login">login</string>
+    <string name="cancel">cancel</string>
+</resources>
